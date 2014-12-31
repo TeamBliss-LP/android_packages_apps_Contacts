@@ -270,6 +270,19 @@
     <string name="message_from_you_prefix" msgid="7180706529908434482">"您：<xliff:g id="SMS_BODY">%s</xliff:g>"</string>
     <string name="menu_copyTo">"複制到"</string>
     <string name="no_empty_email_in_usim">"卡上電子郵件空間已滿，部分郵件信息將不會複制 "</string>
+    <string name="add_to_white">加入白名單</string>
+    <string name="add_to_black">加入黑名單</string>
+    <string name="title_del_call">刪除</string>
+    <string name="delete_call_title">刪除通話記錄</string>
+    <string name="delete_call_message">刪除通話記錄 ...</string>
+    <string name="delete_call_alert">"確定要刪除選中的通話記錄嗎?"</string>
+    <string name="title_add_members">"添加成員"</string>
+    <string name="title_move_members">"移動成員"</string>
+    <string name="message_add_members">"添加成員..."</string>
+    <string name="message_move_members">"移動成員..."</string>
+    <string name="cancel_operation">"操作取消"</string>
+    <string name="message_can_not_move_members">"不能移動成員"</string>
+    <string name="message_from_you_prefix" msgid="7180706529908434482">"您：<xliff:g id="SMS_BODY">%s</xliff:g>"</string>
     <!-- no translation found for message_from_you_prefix (7180706529908434482) -->
     <skip />
 </resources>
