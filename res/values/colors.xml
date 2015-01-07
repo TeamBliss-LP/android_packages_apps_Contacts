@@ -54,7 +54,7 @@
 
     <color name="contact_all_list_background_color">#FFFFFF</color>
     <color name="contact_favorites_list_background_color">#FFFFFF</color>
-    <color name="group_list_background_color">#FFFFFF</color>
+    <color name="group_list_background_color">@*android:color/material_blue_grey</color>
 
     <!-- Background color of pinned header items. -->
     <color name="list_item_pinned_header_color">@color/background_primary</color>
