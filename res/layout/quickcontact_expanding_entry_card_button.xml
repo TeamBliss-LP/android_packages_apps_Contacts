@@ -49,7 +49,7 @@
             android:layout_weight="0"
             android:paddingBottom="@dimen/expanding_entry_card_button_padding_vertical"
             android:paddingTop="@dimen/expanding_entry_card_button_padding_vertical"
-            android:textColor="@android:color/white"
+            android:textColor="@color/expanding_entry_card_button_text_color"
             android:textSize="@dimen/expanding_entry_card_title_text_size" />
 
         <LinearLayout
