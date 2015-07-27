@@ -18,7 +18,16 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="contactSavedToSimCardError">مخاطبین انتخاب شده را نمی توان در سیم کارت ذخیره کرد</string>
+  <string name="airplane_mode_on">سیم‌کارت در حالت پرواز قابل استفاده نیست</string>
+  <string name="number_anr_too_long">شماره بسیار طولانی است</string>
+  <string name="email_address_too_long">آدرس ایمیل بسیار طولانی است</string>
   <string name="sim_card_full">سیم کارت پر است</string>
+  <string name="tag_too_long">نام مخاطب بسیار طولانی است</string>
+  <string name="invalid_phone_number">شماره تلفن نامعتبر است</string>
+  <string name="invalid_number_type">نوع شماره تلفن نامعتبر است</string>
+  <string name="no_phone_number_or_email">لطفا آدرس ایمیل یا شماره تلفن را وارد نمایید.</string>
+  <string name="memory_card_full">مخاطب ذخیره نمی‌شود، حافظه گوشی پر است</string>
+  <string name="contacts_groups_label">گروه‌ها</string>
   <string name="menu_moveGroupMembers">انتقال اعضای گروه</string>
   <string name="title_move_members">انتقال اعضا</string>
   <string name="message_move_members">انتقال اعضا\u2026</string>
